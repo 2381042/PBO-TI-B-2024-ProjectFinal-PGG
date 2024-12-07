@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 @Component
-public class CustomerServiceImpl implements CostumerService {
+public class CustomerServiceImpl implements CustomerService {
     private KamarRepository kamarRepository;
     private PemesananRepository pemesananRepository;
 

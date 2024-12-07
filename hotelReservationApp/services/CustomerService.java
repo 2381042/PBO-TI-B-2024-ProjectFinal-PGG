@@ -4,7 +4,7 @@ import hotelReservationApp.entities.Kamar;
 
 import java.util.List;
 
-public interface CostumerService {
+public interface CustomerService {
 
     List<Kamar> getAllKamar();
     List<Kamar> cariKamarBerdasarkanJenis(String jenisKamar);

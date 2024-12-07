@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Scanner;
 
 @Component
-public class CustomerViewImpl implements CostumerView {
+public class CustomerViewImpl implements CustomerView {
     private final Scanner scanner = new Scanner(System.in);
     private final CustomerServiceImpl customerService;
 

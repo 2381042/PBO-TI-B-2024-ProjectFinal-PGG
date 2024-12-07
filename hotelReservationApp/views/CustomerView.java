@@ -1,6 +1,6 @@
 package hotelReservationApp.views;
 
-public interface CostumerView {
+public interface CustomerView {
 
     void tampilkanMenuCustomer();
 
