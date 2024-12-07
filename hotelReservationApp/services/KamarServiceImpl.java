@@ -1,7 +1,7 @@
-package services;
+package hotelReservationApp.services;
 
-import entities.Kamar;
-import repository.KamarRepository;
+import hotelReservationApp.entities.Kamar;
+import hotelReservationApp.repository.KamarRepository;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

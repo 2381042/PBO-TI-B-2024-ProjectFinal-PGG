@@ -1,9 +1,9 @@
-package repository;
+package hotelReservationApp.repository;
 
-import config.Database;
-import entities.LaporanKeuangan;
-import entities.Pemesanan;
-import entities.Tamu;
+import hotelReservationApp.config.Database;
+import hotelReservationApp.entities.LaporanKeuangan;
+import hotelReservationApp.entities.Pemesanan;
+import hotelReservationApp.entities.Tamu;
 import org.springframework.stereotype.Component;
 
 import java.sql.*;

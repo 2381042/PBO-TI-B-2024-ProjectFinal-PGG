@@ -1,4 +1,4 @@
-package entities;
+package hotelReservationApp.entities;
 
 public class Tamu {
     private String nama;

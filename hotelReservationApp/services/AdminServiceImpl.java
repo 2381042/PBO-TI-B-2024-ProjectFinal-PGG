@@ -1,8 +1,8 @@
-package services;
+package hotelReservationApp.services;
 
-import entities.LaporanKeuangan;
-import entities.Pemesanan;
-import entities.Tamu;
+import hotelReservationApp.entities.LaporanKeuangan;
+import hotelReservationApp.entities.Pemesanan;
+import hotelReservationApp.entities.Tamu;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

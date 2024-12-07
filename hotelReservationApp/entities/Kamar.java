@@ -1,4 +1,4 @@
-package entities;
+package hotelReservationApp.entities;
 
 public class Kamar {
     private String nomorKamar;

@@ -1,4 +1,4 @@
-package config;
+package hotelReservationApp.config;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

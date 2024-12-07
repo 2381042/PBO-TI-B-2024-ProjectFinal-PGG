@@ -1,6 +1,6 @@
-package services;
+package hotelReservationApp.services;
 
-import entities.Kamar;
+import hotelReservationApp.entities.Kamar;
 
 import java.util.List;
 

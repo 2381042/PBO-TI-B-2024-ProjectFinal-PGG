@@ -1,7 +1,7 @@
-package repository;
+package hotelReservationApp.repository;
 
-import config.Database;
-import entities.Kamar;
+import hotelReservationApp.config.Database;
+import hotelReservationApp.entities.Kamar;
 import org.springframework.stereotype.Component;
 
 import java.sql.*;

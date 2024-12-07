@@ -1,6 +1,6 @@
-package repository;
+package hotelReservationApp.repository;
 
-import entities.Kamar;
+import hotelReservationApp.entities.Kamar;
 import java.util.List;
 
 public interface KamarRepository {
